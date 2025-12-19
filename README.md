@@ -73,13 +73,3 @@ python Hand_Photograph/main.py --source path/to/image.jpg
 ## 开发者/作者
 - 仓库：To-sam-akf/Hand-Photograph
 - 联系：请通过 GitHub issue 或者 Pull Request 进行交流。
-
-## 许可（License）
-- 当前仓库没有显式 LICENSE 文件时，建议添加一个（如 MIT）以明确版权与使用许可。
-
----
-
-提示：我已列出项目的关键文件与用法说明。若你希望我：
-- 生成一个可直接提交的 `README.md`（我可以把上面的内容写入仓库并创建提交）；
-- 或者我可以为 `requirements.txt`、示例图片、或改进的 `main.py` CLI 增加示例代码；
-请告诉我你希望的下一步操作，我可以继续帮你生成并（如果需要）提交到仓库。 
